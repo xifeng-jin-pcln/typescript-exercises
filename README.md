@@ -15,7 +15,7 @@ Before you begin, there are some rule of thumbs you should follow anytime you/yo
 - run test
 - test fails or you see any red warning in your source file, please update your code according to hint provided to TS
 - update `"noImplicitAny": true`
-- rince and repeat, test and fix
+- rinse and repeat, test and fix until you and your team are satisfied
 
 ---
 
