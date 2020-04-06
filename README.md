@@ -13,7 +13,7 @@ Before you begin, there are some rule of thumbs you should follow anytime you/yo
 - add `"noImplicitAny": false` to `tsconfig.json`
 - update `js` to `ts`
 - run test
-- test fails or you see any red line in your source file, please update your source code according to hint provided to TS
+- test fails or you see any red warning in your source file, please update your code according to hint provided to TS
 - update `"noImplicitAny": true`
 - rince and repeat, test and fix
 
